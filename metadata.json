@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS EDU",
+  "description": "Nền tảng giáo dục thông minh ứng dụng AI cho học sinh mọi lứa tuổi, phụ huynh và giáo viên.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

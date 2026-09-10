@@ -1,0 +1,19 @@
+{
+  "name": "NEXUS EDU — Nền tảng học tập thông minh",
+  "short_name": "NEXUS EDU",
+  "description": "Nền tảng giáo dục AI thích ứng cho học sinh, phụ huynh và giáo viên",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "productivity"]
+}

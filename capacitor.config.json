@@ -1,0 +1,14 @@
+{
+  "appId": "vn.nexus.edu",
+  "appName": "NEXUS EDU",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  }
+}
